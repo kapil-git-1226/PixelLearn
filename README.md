@@ -129,7 +129,7 @@ npx prisma db seed
 | Styling | Tailwind CSS 4 |
 | Code Editor | Monaco Editor |
 | AI | Groq API (openai/gpt-oss-20b) |
-| Code Execution | Wandbox API |
+| Code Execution | Docker(language images) |
 | Icons | Lucide React |
 
 ## 📄 License
